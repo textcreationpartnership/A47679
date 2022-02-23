@@ -1,0 +1,152 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A coppy of the speech made by Sir Iohn Lenthall to the Lord-Mayor &amp; aldermen in the Guild-Hall, London, the     of     1659 for the satisfying of such as, either by mis-report or mis-understanding of some passages in it, have excepted against it.</title>
+            <author>Lenthall, John, Sir, 1625-1681.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A47679</idno>
+            <idno type="STC">Wing L1065</idno>
+            <idno type="STC">ESTC R13239</idno>
+            <idno type="EEBO-CITATION">12935576</idno>
+            <idno type="OCLC">ocm 12935576</idno>
+            <idno type="VID">95751</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A47679)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 95751)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 388:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A coppy of the speech made by Sir Iohn Lenthall to the Lord-Mayor &amp; aldermen in the Guild-Hall, London, the     of     1659 for the satisfying of such as, either by mis-report or mis-understanding of some passages in it, have excepted against it.</title>
+                  <author>Lenthall, John, Sir, 1625-1681.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Tho. Leach,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Politics and government --  1649-1660.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:95751:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 77 -->
+            <p>A COPPY Of The SPEECH Made By Sir Iohn Lenthall To The LORD-MAYOR &amp; ALDERMEN In The GUILD-HALL <hi>LONDON,</hi> The <gap reason="blank" extent="1 span">
+                  <desc>〈1 span left blank〉</desc>
+               </gap>of <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> 1659.</p>
+            <p>For the ſatisfying of ſuch as either by miſ-report or miſ underſtanding of ſome paſſages in it, have excepted againſt it.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Tho. Leach</hi> 1659</p>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb facs="tcp:95751:2"/>
+            <!-- PDF PAGE 78 -->
+            <pb n="3" facs="tcp:95751:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 78 -->
+            <opener>
+               <salute>My Lord Mayor,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Am very happy that you have given this Committee of Parlia<g ref="char:EOLhyphen"/>ment ſuch ſatisfaction, and alſo that we have given this Court the knowledge of our In<g ref="char:EOLhyphen"/>tentions: How farre the Parliament is from giving you any juſt occaſions, I have already given you Aſſurances of, and I hope this Conference will give us a better and more firm Confidence one in the other, that ſo we may walk to<g ref="char:EOLhyphen"/>gether in a mutual and happy Compli<g ref="char:EOLhyphen"/>ance; It was hinted by the worthy Alderman that ſpoke laſt, how that the Poſts and Chains were ſet up for the Security of the City, and to prevent
+<pb n="4" facs="tcp:95751:3"/>
+               <!-- PDF PAGE 79 -->ſuch Dangers as they were ſo lately threatned with. This I muſt confeſſe was a juſt occaſion to ſecure your ſelves from hazards of this nature, but why it ſhould now be done when your dan<g ref="char:EOLhyphen"/>gers are paſt, and when that Authori<g ref="char:EOLhyphen"/>ty is in being, which you pretended to have ſo ardent deſires too, and which (I may ſay) you cannot fear, when you conſider how tender they have been to the People, how great Friends they have been to the Commerce and Trade of this place, and how deſirous they formerly have been to preſerve the Pri<g ref="char:EOLhyphen"/>vileges and Rights of it againſt all Dan<g ref="char:EOLhyphen"/>ger and Invaſion; And me thinks 'tis no ſmall happineſs, that from a Con<g ref="char:EOLhyphen"/>fuſion ſo lately here, there ſhould be this Calm and this Tranquility.</p>
+            <p>In the ſeveral diſcourſes, I apprehend there has been a little glance at the form of Government, and though we have no inſtructions as to that, yet ſince the opportunity is given, <hi>I</hi> will let you
+<pb n="5" facs="tcp:95751:3"/>
+               <!-- PDF PAGE 79 -->underſtand what <hi>I</hi> perceive the intenti<g ref="char:EOLhyphen"/>ons of the Parliament are. Their whole deſign is a Common-Wealth Govern<g ref="char:EOLhyphen"/>ment, that is, that the Nation ſhall be Governed by ſucceſsive Parliaments free<g ref="char:EOLhyphen"/>ly choſen by the People. <hi>I</hi> muſt con<g ref="char:EOLhyphen"/>feſſe <hi>I</hi> know not how this may agree with the inclinations of the Engliſh Nation, for it has been my misfortune never to have known a quiet or an eſta<g ref="char:EOLhyphen"/>bliſhed Government amongſt us, ſo that <hi>I</hi> can ſpeak but of ſuch a one as <hi>I</hi> have been informed of, and ſuch a part of one, as <hi>I</hi> a little time lived under. The firſt is determined by the hand of warr, the other diſturb'd before t'was brought to perfection, yet under that lit<g ref="char:EOLhyphen"/>tle glimpſe we had of what we ſhould have, it might eaſily be diſcovered, that was not likely to be an unproffitable one: And <hi>I</hi> am of opinion, that moſt of this Honorable number will affirme the ſame; it being a ſeaſon wherein Trade ſo flou<g ref="char:EOLhyphen"/>riſhed, and the Merchant made ſo ſuc<g ref="char:EOLhyphen"/>ceſſefull
+<pb n="6" facs="tcp:95751:4"/>
+               <!-- PDF PAGE 80 -->returns, that I believe moſt of you can date the begetings of your wealth from the time you were under that Au<g ref="char:EOLhyphen"/>thority; And if any of you have had loſſes, you muſt derive them from ſuc<g ref="char:EOLhyphen"/>ceeding times, which have been very unfortunate to this Nation, and moſt un<g ref="char:EOLhyphen"/>happy to this City.</p>
+            <p>There are in <hi>Europe</hi> ſeveral formes of Governmernt, ſome under Monarchies, others under Free-States, the firſt may be good, the other we are certain are very beneficial to the people that live under them, as there are many of you can witneſſe from what you have ob<g ref="char:EOLhyphen"/>ſerved in ſome parts of <hi>Italy, Germany, France,</hi> and from our rich and near Neighbours, the Free-States of <hi>Holland,</hi> who have now maſter'd the Trade of this part of the world, and ſwallowed the Engliſh glory and wealth. And I am of opinion this proceeds from the very form of Government, which is amongſt them, but yet I do not like
+<pb n="7" facs="tcp:95751:4"/>
+               <!-- PDF PAGE 80 -->it ſo well, as that I could wiſh an imitation of it here, for it will neither agree with the intereſt nor the people of this Nation, it not being generous enough for ſo magnanimous a peo<g ref="char:EOLhyphen"/>ple.</p>
+            <p>I have ſpoke all this my Lord bro<g ref="char:EOLhyphen"/>kenly, becauſe 'tis only to anſwer ob<g ref="char:EOLhyphen"/>jections that have been made, and I am very ſenſible of the trouble I have detaind you with, I ſhall therefore conclude with this advice, that this City would be carefull how they make cauſeleſs jealouſies, and by making pre<g ref="char:EOLhyphen"/>parations againſt them you may create real dangers; For 'tis not my obſervati<g ref="char:EOLhyphen"/>on only, but of the beſt Hiſtorians; That when too much miſtruſt of their dangers have been infuſed into the multitude, they make their reſorts to numbers and very quickly increaſe and commonly the moſt indigent are the moſt luxurious, when having their o<g ref="char:EOLhyphen"/>portunity they become their own Car<g ref="char:EOLhyphen"/>vers,
+<pb n="8" facs="tcp:95751:5"/>
+               <!-- PDF PAGE 81 -->and if under-hand this be com<g ref="char:EOLhyphen"/>poſed for the bringing in of the King, (as that is the opinion of many) why then certainly if he found the indi<g ref="char:EOLhyphen"/>gent did his buſineſſe, 'tis his intereſt to enrich them with the wealth of thoſe that were leſſe active though not leſs deſirous to have the thing done.</p>
+            <p>Thus my Lord, I have given you my opinion, and my advice muſt be, That your Lordſhip, with the reſt of this Ho<g ref="char:EOLhyphen"/>norable number, would make it your endeavours to appeaſe the diſtractions not to inflame them, the one reliſhes much of prudence, the other of Precipitancy.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
